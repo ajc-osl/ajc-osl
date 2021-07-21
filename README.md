@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajc-osl
+- 👋 Hi, I’m Adam.
 - 👀 I’m interested in ML, AI and other cool stuff. Showing/proving pointless things with statistics, probability and logic.
 - 🌱 I’m currently learning Python, Tango, Agile
 - 💞️ I’m looking to collaborate on ML/AI projects suitable for a beginner.
